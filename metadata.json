@@ -1,0 +1,6 @@
+{
+  "name": "Media Downloader & File Manager",
+  "description": "Production-ready Media Downloader & File Manager app featuring download manager, storage analytics, vault, batch actions, and metadata inspector.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
